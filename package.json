@@ -1,0 +1,24 @@
+{
+  "name": "eltable-as-xlsx",
+  "version": "1.0.0",
+  "description": "下载el-table为xlsx   xlsx   vue3  element-plus   file-saver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaozoo/eltable-as-xlsx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaozoo/eltable-as-xlsx/issues"
+  },
+  "homepage": "https://github.com/yaozoo/eltable-as-xlsx#readme",
+  "devDependencies": {
+    "file-saver": "^2.0.5",
+    "xlsx": "^0.18.5"
+  }
+}
