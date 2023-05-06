@@ -1,7 +1,7 @@
 <!--
  * @Author: luyao
  * @Date: 2023-05-05 19:23:44
- * @LastEditTime: 2023-05-06 11:19:32
+ * @LastEditTime: 2023-05-06 11:21:48
  * @Description:
  * @LastEditors: luyao
  * @FilePath: /eltable-as-xlsx/README.md
@@ -39,7 +39,7 @@ exportExcel({
 ```
 
 截图 ：
-![Alt text](https://github.com/LYao0919/Y-render/blob/master/assets/img/demo.gif)
+![Alt text](https://github.com/yaozoo/eltable-as-xlsx/blob/master/assets/img/demo.gif)
 
 ### 举个栗子
 
