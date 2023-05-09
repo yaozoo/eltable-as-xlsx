@@ -11,7 +11,10 @@
     "url": "git+https://github.com/yaozoo/eltable-as-xlsx.git"
   },
   "keywords": [
-    "xlsx",   "vue3",  "element-plus", "file-saver"
+    "xlsx",   
+    "vue3", 
+    "element-plus", 
+    "file-saver"
   ],
   "author": "lu523252405@gmail.com",
   "license": "ISC",
